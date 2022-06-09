@@ -1,3 +1,7 @@
+#Facebook Ad Network
+facebook.com, 1380665405774381, RESELLER, c3e20eee3f780d68
+facebook.com, 5195099850610475, RESELLER, c3e20eee3f780d68
+#Adcolony
 acexchange.co.kr,1017355401,reseller
 acexchange.co.kr,1081983882,reseller
 acexchange.co.kr,1618149085,reseller
